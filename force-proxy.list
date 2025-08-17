@@ -3,6 +3,7 @@
 DOMAIN, 51cg.plus
 DOMAIN, missav.ws
 # 域名后缀匹配
+DOMAIN-SUFFIX, missav.ws
 DOMAIN-SUFFIX, github.com
 DOMAIN-SUFFIX, githubusercontent.com
 
