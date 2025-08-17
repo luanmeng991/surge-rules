@@ -1,7 +1,6 @@
 # === 强制代理清单（示例） ===
 # 域名精确匹配
 DOMAIN, 51cg.plus
-DOMAIN, pe7n9b4.com
 # 域名后缀匹配
 DOMAIN-SUFFIX, github.com
 DOMAIN-SUFFIX, githubusercontent.com
