@@ -5,6 +5,8 @@ DOMAIN, poizonapp.com
 DOMAIN, jiuyanshe.com
 DOMAIN, jiuyan.info
 DOMAIN, app.jiuyangongshe.com
+DOMAIN, sdkgen.data.tianwenca.com
+
 
 # 域名后缀匹配（推荐，覆盖子域名）
 DOMAIN-SUFFIX, dewu.com
@@ -20,3 +22,14 @@ DOMAIN-SUFFIX, jiuyan.info
 DOMAIN-SUFFIX, jiuyan.pro
 DOMAIN-SUFFIX, jiuyansocial.com
 DOMAIN-SUFFIX, jiuyangongshe.com
+DOMAIN-SUFFIX, tianwenca.com
+DOMAIN-SUFFIX, cdnhwcupf06.com
+DOMAIN-SUFFIX, xinqiucc.com
+
+# 可能遗漏的常见域（补充）
+DOMAIN-SUFFIX, dewucdn.com       # 静态资源 CDN
+DOMAIN-SUFFIX, dewuapi.com       # API 接口
+DOMAIN-SUFFIX, api.dewu.com      # API 主域
+DOMAIN-SUFFIX, auth.dewu.com     # 登录鉴权
+DOMAIN-SUFFIX, img.dewu.com      # 图片服务
+DOMAIN-SUFFIX, static.dewu.com   # 备用静态资源
