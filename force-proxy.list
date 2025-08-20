@@ -4,6 +4,7 @@ DOMAIN, dewu.com
 DOMAIN, poizonapp.com
 DOMAIN, jiuyanshe.com
 DOMAIN, jiuyan.info
+DOMAIN, app.jiuyangongshe.com
 
 # 域名后缀匹配（推荐，覆盖子域名）
 DOMAIN-SUFFIX, dewu.com
@@ -18,3 +19,4 @@ DOMAIN-SUFFIX, jiuyanshe.com
 DOMAIN-SUFFIX, jiuyan.info
 DOMAIN-SUFFIX, jiuyan.pro
 DOMAIN-SUFFIX, jiuyansocial.com
+DOMAIN-SUFFIX, jiuyangongshe.com
