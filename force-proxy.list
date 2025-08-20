@@ -1,12 +1,20 @@
-# === 强制代理清单（示例） ===
-# 域名精确匹配
-DOMAIN, 51cg.plus
-DOMAIN, missav.ws
-DOMAIN, avbebe.com
-DOMAIN, starlinkcloud.cc
-DOMAIN, flybit.vip
-# 域名后缀匹配
-DOMAIN-SUFFIX, missav.ws
-DOMAIN-SUFFIX, github.com
-DOMAIN-SUFFIX, githubusercontent.com
+# === 强制代理清单（得物） ===
+# 精确域名
+DOMAIN, dewu.com
+DOMAIN, poizonapp.com
+DOMAIN, jiuyanshe.com
+DOMAIN, jiuyan.info
 
+# 域名后缀匹配（推荐，覆盖子域名）
+DOMAIN-SUFFIX, dewu.com
+DOMAIN-SUFFIX, poizon.com
+DOMAIN-SUFFIX, poizonapp.com
+DOMAIN-SUFFIX, dwstatic.com
+DOMAIN-SUFFIX, dwstatic.cn
+DOMAIN-SUFFIX, dwh5.com
+DOMAIN-SUFFIX, dwplus.cn
+DOMAIN-SUFFIX, dwz.cn
+DOMAIN-SUFFIX, jiuyanshe.com
+DOMAIN-SUFFIX, jiuyan.info
+DOMAIN-SUFFIX, jiuyan.pro
+DOMAIN-SUFFIX, jiuyansocial.com
