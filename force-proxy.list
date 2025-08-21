@@ -23,9 +23,9 @@ DOMAIN-SUFFIX, jiuyan.pro
 DOMAIN-SUFFIX, jiuyansocial.com
 DOMAIN-SUFFIX, jiuyangongshe.com
 DOMAIN-SUFFIX, tianwenca.com
-# DOMAIN-SUFFIX, cdnhwcupf06.com
-# DOMAIN-SUFFIX, xinqiucc.com
-# DOMAIN-SUFFIX, byte-test.com
+DOMAIN-SUFFIX, cdnhwcupf06.com
+DOMAIN-SUFFIX, xinqiucc.com
+DOMAIN-SUFFIX, byte-test.com
 # >> 推送服务
 # DOMAIN-SUFFIX, jpush.io
 # 可能遗漏的常见域（补充）
