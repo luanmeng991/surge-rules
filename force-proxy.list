@@ -35,3 +35,7 @@ DOMAIN-SUFFIX, api.dewu.com      # API 主域
 DOMAIN-SUFFIX, auth.dewu.com     # 登录鉴权
 DOMAIN-SUFFIX, img.dewu.com      # 图片服务
 DOMAIN-SUFFIX, static.dewu.com   # 备用静态资源
+# 关键字匹配（用于可疑 CDN/二级域名变种）
+DOMAIN-KEYWORD, cdnhwcupf06
+DOMAIN-KEYWORD, xinqiucc
+DOMAIN-KEYWORD, jpush
