@@ -9,3 +9,24 @@ DOMAIN-SUFFIX, flybit.vip
 DOMAIN-SUFFIX, netflav.com
 DOMAIN-SUFFIX, pogoskill.com
 DOMAIN-SUFFIX, locachange.com
+# Steam 客户端与商店走香港节点
+DOMAIN-SUFFIX,steampowered.com,HongKong
+DOMAIN-SUFFIX,steamstatic.com,HongKong
+DOMAIN-SUFFIX,steamcommunity.com,HongKong
+DOMAIN-SUFFIX,steamcontent.com,HongKong
+DOMAIN-SUFFIX,steamusercontent.com,HongKong
+DOMAIN-SUFFIX,steam-chat.com,HongKong
+DOMAIN-SUFFIX,steamgames.com,HongKong
+DOMAIN-SUFFIX,steamcdn-a.akamaihd.net,HongKong
+
+# Steam 下载服务（可选，看你是否想让游戏下载也走代理）
+#DOMAIN-SUFFIX,cs.steampowered.com,HongKong
+#DOMAIN-SUFFIX,content1.steampowered.com,HongKong
+#DOMAIN-SUFFIX,content2.steampowered.com,HongKong
+#DOMAIN-SUFFIX,content3.steampowered.com,HongKong
+#DOMAIN-SUFFIX,content4.steampowered.com,HongKong
+#DOMAIN-SUFFIX,akamaihd.net,HongKong
+
+# Steam UDP端口（聊天、登录、匹配）
+PROCESS-NAME,Steam,HongKong
+PROCESS-NAME,steamwebhelper,HongKong
