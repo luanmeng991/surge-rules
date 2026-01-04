@@ -31,3 +31,8 @@ DOMAIN-SUFFIX,steamcdn-a.akamaihd.net,HongKong
 # Steam UDP端口（聊天、登录、匹配）
 PROCESS-NAME,Steam,HongKong
 PROCESS-NAME,steamwebhelper,HongKong
+
+# PUBG 游戏进程走日本
+PROCESS-NAME,TslGame.exe,Japan
+PROCESS-NAME,ExecPubg.exe,Japan
+PROCESS-NAME,CrashReportClient.exe,Japan
