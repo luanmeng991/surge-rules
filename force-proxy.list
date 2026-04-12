@@ -14,6 +14,7 @@ DOMAIN-SUFFIX,tntv2.online
 DOMAIN,tntv2.online
 DOMAIN-SUFFIX,xxyjx.cc
 DOMAIN,linkuserssnk.xxyjx.cc
+DOMAIN,yyssr.org
 # 关键词匹配，只要网址包含 hsex 就会走代理
 DOMAIN-KEYWORD,hsex,Proxy
 # Steam 客户端与商店走香港节点
