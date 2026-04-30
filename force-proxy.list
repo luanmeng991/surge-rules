@@ -16,6 +16,7 @@ DOMAIN-SUFFIX,xxyjx.cc
 DOMAIN,linkuserssnk.xxyjx.cc
 DOMAIN,yyssr.org
 DOMAIN,missav.ws
+DOMAIN-SUFFIX,missav.ws
 #DOMAIN-SUFFIX,googleapis.com
 #DOMAIN,generativelanguage.googleapis.com
 # 关键词匹配，只要网址包含 hsex 就会走代理
