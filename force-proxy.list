@@ -31,19 +31,11 @@ DOMAIN-SUFFIX,steam-chat.com
 DOMAIN-SUFFIX,steamgames.com
 DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
 
-# Steam 下载服务（可选，看你是否想让游戏下载也走代理）
-#DOMAIN-SUFFIX,cs.steampowered.com,HongKong
-#DOMAIN-SUFFIX,content1.steampowered.com,HongKong
-#DOMAIN-SUFFIX,content2.steampowered.com,HongKong
-#DOMAIN-SUFFIX,content3.steampowered.com,HongKong
-#DOMAIN-SUFFIX,content4.steampowered.com,HongKong
-#DOMAIN-SUFFIX,akamaihd.net,HongKong
+# PS5 Pro 服务
+DOMAIN-SUFFIX,playstation.com
+DOMAIN-SUFFIX,sonyentertainmentnetwork.com
 
-# Steam UDP端口（聊天、登录、匹配）
-#PROCESS-NAME,Steam,HongKong
-#PROCESS-NAME,steamwebhelper,HongKong
-
-# PUBG 游戏进程走日本
-#PROCESS-NAME,TslGame.exe,Japan
-#PROCESS-NAME,ExecPubg.exe,Japan
-#PROCESS-NAME,CrashReportClient.exe,Japan
+# 关键接口（必须补）
+DOMAIN-SUFFIX,api.playstation.com
+DOMAIN-SUFFIX,auth.api.sonyentertainmentnetwork.com
+DOMAIN-SUFFIX,store.playstation.com
